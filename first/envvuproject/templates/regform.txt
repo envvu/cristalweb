@@ -1,0 +1,34 @@
+Enquiry For Free Physics Numerical classes
+
+Candidate name:
+{{name}}
+
+Date of birth:
+{{sdate}}
+
+Phone number:
+{{phone}}
+
+Email id :
+{{email}}
+
+Name of school:
+{{school}}
+
+Place:
+{{place}}
+
+Parent's name:
+{{pname}}
+
+Parent's email:
+{{pemail}}
+
+Parent's phone number:
+{{pphone}}
+
+class :
+{{sclass}}
+
+Board:
+{{board}}

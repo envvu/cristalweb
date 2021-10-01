@@ -1,0 +1,37 @@
+Enquiry for Online Tuition Classes
+
+Candidate name:
+{{name}}
+
+Date of birth:
+{{dob}}
+
+whatsapp number:
+{{wapp}}
+
+Email id :
+{{email}}
+
+Name of school:
+{{school}}
+
+Place:
+{{place}}
+
+Parent's name:
+{{pname}}
+
+Parent's email:
+{{pemail}}
+
+Parent's phone number:
+{{pphone}}
+
+Class :
+{{sclass}}
+
+Course:
+{{course}}
+
+Stream:
+{{stream}}

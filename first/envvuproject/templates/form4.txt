@@ -1,0 +1,58 @@
+Enquiry CSAT Aptitude Test Online
+
+
+Contactor Name:
+{{ name }}
+
+Contactor DOB:
+{{dob}}
+
+Contactor gender:
+{{gender}}
+
+Contactor address1:
+{{add1}}
+
+Contactor address2:
+{{add2}}
+
+Contactor city:
+{{city}}
+
+Contactor state:
+{{state}}
+
+Contactor pincode:
+{{pin}}
+
+Contactor Email:
+{{ email }}
+
+
+Contactor whatsapp number:
+{{ wnumber }}
+
+Contactor parents name:
+{{ parent }}
+
+Contactor parents job:
+{{ parentjob }}
+
+Contactor parents number:
+{{ parentph }}
+
+Contactor schoolname :
+{{ schoolname }}
+
+
+Contactor class:
+{{std}}
+
+Contactor board of study:
+{{board}}
+
+Contactor  selected entrance:
+{{entrance}}
+
+How contactor know about us:
+{{ us }}

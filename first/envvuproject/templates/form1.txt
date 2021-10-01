@@ -1,0 +1,27 @@
+
+Enquiry Free All Indian Mock Tests
+
+candidate Name:
+{{ name }}
+
+candidate Email:
+{{ email }}
+
+candidate number:
+{{ number }}
+
+School name with place:
+{{schoolname}}
+
+Board of study:
+{{board}}
+
+
+candidate  parent's name:
+{{ parentname }}
+
+candidate  parent's number:
+{{ parentnumber }}
+
+Test opted:
+{{test}}

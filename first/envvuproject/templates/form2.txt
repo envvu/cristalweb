@@ -1,0 +1,38 @@
+
+Enquiry Tuition & Entrance Coaching
+
+Contacter Name:
+{{ name }}
+
+Contacter Email:
+{{ email }}
+
+Contacter whatsapp number:
+{{ wnumber }}
+
+Contacter parents number:
+{{ parentno }}
+
+Contacter standard :
+{{ standard }}
+
+Contacter city:
+{{city}}
+
+Contacter state:
+{{state}}
+
+Contacter country:
+{{country}}
+
+Contacter address:
+{{address}}
+
+Contacter school name with place:
+{{schoolname}}
+
+Contacter currently attending any tuition:
+{{tuition}}
+
+Contacter preferred subject():
+{{ subject }}

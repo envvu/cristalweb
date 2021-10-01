@@ -1,0 +1,26 @@
+
+ENQUIRY FOR SSLC TOP SCORER
+
+candidate Full Name:
+{{ name }}
+
+School name with place:
+{{schoolname}}
+
+Grades:
+{{grades}}
+
+
+candidate whatsapp number:
+{{ number }}
+
+candidate Email:
+{{ email }}
+
+candidate  parent's name:
+{{ parentname }}
+
+candidate  parent's number:
+{{ parentnumber }}
+
+
